@@ -1,0 +1,28 @@
+{
+  "name": "colin-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGWebDev2003/colin-gpt.git"
+  },
+  "keywords": [
+    "Colin",
+    "GPT",
+    "KI",
+    "AI"
+  ],
+  "author": "Colin Grahm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CGWebDev2003/colin-gpt/issues"
+  },
+  "homepage": "https://github.com/CGWebDev2003/colin-gpt#readme",
+  "dependencies": {
+    "openai": "^4.25.0"
+  }
+}
